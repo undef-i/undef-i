@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Minerva.Si's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnxb)]()
+[![Minerva.Si's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnxb&theme=vue)]()
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
