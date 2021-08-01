@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/undef_i?logo=Twitter&logoColor=white&style=flat-square)
+![Twitter Follow](https://img.shields.io/twitter/follow/undef_i?logo=Twitter&logoColor=white&style=for-the-badge)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,5 @@
 
 
 [![Minerva.Si's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnxb&theme=vue)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
