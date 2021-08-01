@@ -3,7 +3,7 @@
 I'm Minerva.Si
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/undef_i?logo=Twitter&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logoColor=white&labelColor=informational&color=lightgrey&logo=zhihu&label=iiii&query=$.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dfvhin)
+![](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logoColor=white&labelColor=grey&color=lightgrey&logo=zhihu&label=iiii&query=$.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dfvhin)
 
 
 ![](https://img.shields.io/badge/IDE-VSC-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)
