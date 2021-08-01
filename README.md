@@ -7,6 +7,6 @@
 ![](https://img.shields.io/badge/IDE-VSC-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)
 ![](https://img.shields.io/badge/C++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-grey?logo=JavaScript&style=flat-square&logoColor=white)
-![Minerva.Si's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnxb&theme=vue)]()
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Minerva.Si's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnxb&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
