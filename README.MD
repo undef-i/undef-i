@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/C++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Rust-grey?logo=Rust&style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Haskell-grey?logo=Haskell&style=flat-square&logoColor=white)
-![Minerva.Si's GitHub stats](https://github-readme-stats.vercel.app/api?username=undef-i&theme=vue)
+![Minerva.Si's GitHub stats](https://github-readme-stats-eight-neon-16.vercel.app/api?username=undef-i&theme=vue)
 
 #### My PGP Public Keys
 
